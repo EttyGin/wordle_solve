@@ -1,4 +1,3 @@
-nltk
 dash
+nltk
 dash_bootstrap_components
-dash_core_components

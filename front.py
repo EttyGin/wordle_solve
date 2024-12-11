@@ -163,4 +163,5 @@ def update_output(n_clicks, pattern: str, include: str, exclude: str):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=True, host="0.0.0.0")
+
