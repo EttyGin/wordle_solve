@@ -1,0 +1,3 @@
+nltk
+dash
+dash_bootstrap_components
